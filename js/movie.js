@@ -1,6 +1,6 @@
 class Movie{
     constructor(){
-        this.api_key = '5fd4b8b2232d79c6d2528fce3c4fe3ac';
+        this.api_key = '5fd4b8b2232d79c6.........'; // put your api key here
     }
 
     async getMovies(query){
